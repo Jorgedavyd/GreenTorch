@@ -6,9 +6,10 @@
 [![code-style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 # GreenTorch
-</p allign = 'center'>
-    <img src="https://github.com/Jorgedavyd/GreenTorch/raw/main/docs/source/logo.png" height = 200 width = 200/>
-</p >
+
+<p align="center">
+  <img src=https://github.com/Jorgedavyd/GreenTorch/raw/main/docs/source/logo.png" height = 200 width = 200 />
+</p>
 
 Torch based framework for PDE solving with Green's functions
 

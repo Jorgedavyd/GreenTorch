@@ -8,7 +8,7 @@
 # GreenTorch
 
 <p align="center">
-  <img src=https://github.com/Jorgedavyd/GreenTorch/raw/main/docs/source/logo.png" height = 200 width = 200 />
+  <img src="https://github.com/Jorgedavyd/GreenTorch/raw/main/docs/source/logo.png" height = 200 width = 200 />
 </p>
 
 Torch based framework for PDE solving with Green's functions
